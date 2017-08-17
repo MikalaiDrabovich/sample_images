@@ -1,2 +1,2 @@
 # sample_images
-sample images for object segmentation
+Sample test images for object segmentation for https://github.com/MikalaiDrabovich/fast-pixel-classification-dnn-caffe
